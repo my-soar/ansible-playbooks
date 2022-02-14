@@ -1,0 +1,4 @@
+---
+
+- name: Run the ad script
+  script: ../scripts/getip.ps1
